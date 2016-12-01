@@ -6,6 +6,15 @@ game of life in lisp
 
 Result -> 85/100 
 
+## About
+####Skills
+Adaptation & creativity |
+Algorithms & AI |
+Functional programming |
+Graphics
+####Keywords
+42, rush, Lisp, sbcl, functionnal programmation, algorithms, Conways's automaton, game of life
+
 ## instruction
 
 	you will have to install sbcl, quicklisp and more. Please read the subject.pdf, all instruction are given.
